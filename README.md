@@ -1,2 +1,2 @@
-# digitial-lamp-website
-A web interface built using HTML, CSS, and JavaScript featuring Henry the lamp.
+# Meet Henry the Lamp
+You can turn the lights on or off with the toggle at the top right. Yay!
